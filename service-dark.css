@@ -1,0 +1,23 @@
+.service-dark-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.service-dark-service-dark {
+  width: 100%;
+  height: 3479px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.service-dark-service-dark1 {
+  top: 0px;
+  left: 0px;
+  width: 1024px;
+  height: 3479px;
+  position: absolute;
+}
